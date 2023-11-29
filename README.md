@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working as a junior developer in a new-founded enterprise .<br>🤝 I’m looking to collaborate on any kind of projects, from simple to challenging ones!<br>🪵 I’m looking for help with discovery of new development technologies.<br>📓 I’m currently learning advanced web application development, game development and modding :)<br>
+💻 I’m currently working as a web/mobile developer.<br>🤝 I’m looking to collaborate on any kind of projects, from simple to challenging ones!<br>🪵 I’m looking for help with discovery of new development technologies.<br>📓 I’m currently learning advanced web application development, game development and modding :)<br>
 
 
 ## 🌐 Socials:
